@@ -8,4 +8,3 @@ class ProblemOne{
      System.out.println(sum);
   }
 }
-
